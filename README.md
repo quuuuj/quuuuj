@@ -1,6 +1,6 @@
 <h1 align="center">你好 👋，我是 Jie Qiu </h1>
 <p align="center">
-  <em>开发者爱好者</em>
+  <em>开发爱好者</em>
 </p>
 
 <p align="center">
