@@ -39,5 +39,5 @@
 ### 📱 公众号
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quuuuj/quuuuj/master/image-1.png" alt="公众号二维码" width="200" />
+  <img src="https://raw.githubusercontent.com/quuuuj/quuuuj/master/wechat.jpg" alt="公众号二维码" width="200" />
 </div>
